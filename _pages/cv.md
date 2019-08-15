@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-## Currently
+<!-- ## Currently-->
 
-I’m a PhD student in the Institute of Ecology and Evolution at the University of Oregon, working with Andrew Kern and Peter Ralph. I’m broadly interested in population genetics and computational biology. For my PhD, I have been working on how different evolutionary processes shape the landscapes of genetic diversity.
+<!--I’m a PhD student in the Institute of Ecology and Evolution at the University of Oregon, working with Andrew Kern and Peter Ralph. I’m broadly interested in population genetics and computational biology. For my PhD, I have been working on how different evolutionary processes shape the landscapes of genetic diversity. -->
 
 ## Education
 `2018-current`
