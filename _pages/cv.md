@@ -13,16 +13,6 @@ redirect_from:
 
 I’m a PhD student in the Institute of Ecology and Evolution at the University of Oregon, working with Andrew Kern and Peter Ralph. I’m broadly interested in population genetics and computational biology. For my PhD, I have been working on how different evolutionary processes shape the landscapes of genetic diversity.
 
-## General skills
-
-* Evolutionary biology
-* Population genetics
-* Computational biology
-* Statistical genetics
-* Genomics
-* Phylogenetics
-
-
 ## Education
 `2018-current`
 __University of Oregon__ PhD student in Biology (supervisor: Andrew Kern)
@@ -36,11 +26,18 @@ __University of São Paulo__ Coursework (330h) in Applied mathematics -->
 `2012-15`
 __University of São Paulo__ BSc in Biological Sciences
 
-## Languages
+## Publications
 
-* Portuguese (native)
-* English (fluent)
-* Spanish (proficient)
+### In revision
+**Rodrigues MF**, Vibranovski MD, Cogni R. Parallel clinal and seasonal changes indicate selection maintains genome-wide clines in <i>Drosophila melanogaster</i>. 
+
+### In preparation
+**Rodrigues MF**, Cogni R. Geographic variation in immunity genes and phenotypes in <i>Drosophila melanogaster</i>. 
+
+### In print
+Stankowski S, Chase MA, Fuiten AM, **Rodrigues MF**, Ralph PL, Streisfeld MA. Widespread selection and gene flow shape the genomic landscape during a radiation of monkeyflowers. PLoS Biol 17(7): e3000391. 
+
+A list is also available [online](https://scholar.google.com/citations?user=GyBZOK0AAAAJ)
 
 ## Grants and Awards
 
@@ -125,6 +122,21 @@ __Introduction to Systematics and Biogeography__, IB, USP
 
 Undergraduate teaching assistant for a first year course systematics, phylogenetics and biogeography (6h/week for 16 weeks)
 
+## Languages
+
+* Portuguese (native)
+* English (fluent)
+* Spanish (proficient)
+
+## General skills
+
+* Evolutionary biology
+* Population genetics
+* Computational biology
+* Statistical genetics
+* Genomics
+* Phylogenetics
+
 ## Programming skills
 
 * R
@@ -135,18 +147,6 @@ Undergraduate teaching assistant for a first year course systematics, phylogenet
 * LaTeX
 * HTML and CSS
 
-## Publications
-
-### In revision
-**Rodrigues MF**, Vibranovski MD, Cogni R. Parallel clinal and seasonal changes indicate selection maintains genome-wide clines in <i>Drosophila melanogaster</i>. 
-
-### In preparation
-**Rodrigues MF**, Cogni R. Geographic variation in immunity genes and phenotypes in <i>Drosophila melanogaster</i>. 
-
-### In print
-Stankowski S, Chase MA, Fuiten AM, **Rodrigues MF**, Ralph PL, Streisfeld MA. Widespread selection and gene flow shape the genomic landscape during a radiation of monkeyflowers. PLoS Biol 17(7): e3000391. 
-
-A list is also available [online](https://scholar.google.com/citations?user=GyBZOK0AAAAJ)
 
 ## References
 
