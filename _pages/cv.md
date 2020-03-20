@@ -28,8 +28,8 @@ __University of São Paulo__ BSc in Biological Sciences
 
 ## Publications
 
-### In revision
-**Rodrigues MF**, Vibranovski MD, Cogni R. Parallel clinal and seasonal changes indicate selection maintains genome-wide clines in <i>Drosophila melanogaster</i>. 
+### In review
+**Rodrigues MF**, Vibranovski MD, Cogni R. Natural selection and parallel clinal and seasonal changes in <i>Drosophila melanogaster</i>. bioRxiv. https://doi.org/10.1101/2020.03.19.999011
 
 ### In preparation
 **Rodrigues MF**, Cogni R. Geographic variation in immunity genes and phenotypes in <i>Drosophila melanogaster</i>. 
