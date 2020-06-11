@@ -11,11 +11,11 @@ redirect_from:
 
 <!-- ## Currently-->
 
-<!--I’m a PhD student in the Institute of Ecology and Evolution at the University of Oregon, working with Andrew Kern and Peter Ralph. I’m broadly interested in population genetics and computational biology. For my PhD, I have been working on how different evolutionary processes shape the landscapes of genetic diversity. -->
+<!--I’m a PhD student in the Institute of Ecology and Evolution at the University of Oregon, working with Andrew Kern and Peter Ralph. I’m broadly interested in evolutionary biology, population genetics and computational biology. For my PhD, I have been working on how different evolutionary processes shape the landscape of genetic diversity across species. -->
 
 ## Education
 `2018-current`
-__University of Oregon__ PhD student in Biology (supervisor: Andrew Kern)
+__University of Oregon__ PhD student in Biology (supervisors: Andrew Kern)
 
 `2016-18`
 __University of São Paulo__ MSc in Genetics and Evolutionary Biology (supervisor: Rodrigo Cogni)
@@ -39,7 +39,7 @@ Stankowski S, Chase MA, Fuiten AM, **Rodrigues MF**, Ralph PL, Streisfeld MA. Wi
 
 A list is also available [online](https://scholar.google.com/citations?user=GyBZOK0AAAAJ)
 
-## Grants and Awards
+## Awards and scholarships
 
 `2019-`
 __Genetics Training Grant, CAS-UO__
@@ -81,6 +81,9 @@ __Diversity and phylogenetic positioning of freshwater lineages of <i>Rhinebotrh
 
 ## Conferences, meetings and workshops
 
+`2020`
+__The Allied Genetics Conference__, online
+
 `2014`
 __8th Workshop on Cestode Systematics and Phylogeny__, Sao Paulo, Brazil
 
@@ -88,7 +91,7 @@ __8th Workshop on Cestode Systematics and Phylogeny__, Sao Paulo, Brazil
 ## Teaching
 
 `2019`
-__Introduction to Programming for Biologists__, IB, USP
+__Introduction to Programming for Biologists__, Department of Biology, UO
 
 Teaching assistant for an introductory course on Python programming (12h/week for two 10 week terms)
 
@@ -120,7 +123,14 @@ Undergraduate teaching assistant for a first year course on statistics (6h/week 
 `2013`
 __Introduction to Systematics and Biogeography__, IB, USP
 
-Undergraduate teaching assistant for a first year course systematics, phylogenetics and biogeography (6h/week for 16 weeks)
+Undergraduate teaching assistant for a first year course on systematics, phylogenetics and biogeography (6h/week for 16 weeks)
+
+## Community involvement
+
+`2020`
+
+* __Poster judge__, Undergraduate Research Symposium, University of Oregon
+* __Treasurer__, [Graduate Evolutionary Biology and Ecology Students](https://grebesuo.wordpress.com/), University of Oregon
 
 ## Languages
 
