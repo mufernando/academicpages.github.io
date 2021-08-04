@@ -15,7 +15,7 @@ redirect_from:
 
 ## Education
 `2018-current`
-__University of Oregon__ PhD student in Biology (supervisors: Andrew Kern)
+__University of Oregon__ PhD student in Biology (supervisors: Andrew Kern and Peter Ralph)
 
 `2016-18`
 __University of São Paulo__ MSc in Genetics and Evolutionary Biology (supervisor: Rodrigo Cogni)
@@ -28,20 +28,21 @@ __University of São Paulo__ BSc in Biological Sciences
 
 ## Publications
 
-### In review
-**Rodrigues MF**, Vibranovski MD, Cogni R. Natural selection and parallel clinal and seasonal changes in <i>Drosophila melanogaster</i>. bioRxiv. https://doi.org/10.1101/2020.03.19.999011
+<!-- ### In review -->
 
 ### In preparation
 **Rodrigues MF**, Cogni R. Geographic variation in immunity genes and phenotypes in <i>Drosophila melanogaster</i>. 
 
 ### In print
-Stankowski S, Chase MA, Fuiten AM, **Rodrigues MF**, Ralph PL, Streisfeld MA. Widespread selection and gene flow shape the genomic landscape during a radiation of monkeyflowers. PLoS Biol 17(7): e3000391. 
+**Rodrigues, MF**, and Cogni, R. (2021) Genomic Responses to Climate Change: Making the Most of the Drosophila Model. Frontiers in Genetics, 1212. [https://doi.org/10.3389/fgene.2021.676218](https://doi.org/10.3389/fgene.2021.676218)
+**Rodrigues, MF**, Vibranovski, MD and Cogni, R. (2021) Clinal and seasonal changes are correlated in Drosophila melanogaster natural populations. Evolution. [https://doi.org/10.1111/evo.14300](https://doi.org/10.1111/evo.14300)
+Stankowski S, Chase MA, Fuiten AM, **Rodrigues MF**, Ralph PL, Streisfeld MA. (2019) Widespread selection and gene flow shape the genomic landscape during a radiation of monkeyflowers. PLoS Biol 17(7): e3000391. [https://doi.org/10.1371/journal.pbio.3000391](https://doi.org/10.1371/journal.pbio.3000391)
 
 A list is also available [online](https://scholar.google.com/citations?user=GyBZOK0AAAAJ)
 
 ## Awards and scholarships
 
-`2019-`
+`2019-2021`
 __Genetics Training Grant, CAS-UO__
 
 Project title: "Natural selection and heterogeneous genomic landscapes"
@@ -81,8 +82,18 @@ __Diversity and phylogenetic positioning of freshwater lineages of <i>Rhinebotrh
 
 ## Conferences, meetings and workshops
 
+`2021`
+__SMBEv2021__, virtual, Society for Molecular Biology and Evolution.
+
+Poster title: Natural selection and landscapes of diversity in the great apes. 
+
+`2021`
+__Probabilistic Modeling in Genomics__, virtual, Cold Spring Harbor Laboratories.
+
+Poster title: Natural selection and landscapes of diversity in the great apes. 
+
 `2020`
-__The Allied Genetics Conference__, online
+__The Allied Genetics Conference__, virtual, Genetics Society of America.
 
 `2014`
 __8th Workshop on Cestode Systematics and Phylogeny__, Sao Paulo, Brazil
@@ -127,6 +138,11 @@ Undergraduate teaching assistant for a first year course on systematics, phyloge
 
 ## Community involvement
 
+`2021`
+* __Poster judge__, Undergraduate Research Symposium, University of Oregon
+* __Treasurer__, [Graduate Evolutionary Biology and Ecology Students](https://grebesuo.wordpress.com/), University of Oregon
+
+
 `2020`
 
 * __Poster judge__, Undergraduate Research Symposium, University of Oregon
@@ -162,4 +178,4 @@ Undergraduate teaching assistant for a first year course on systematics, phyloge
 
 Available on request.
 
-Last updated: August 2019
+Last updated: August 2021
