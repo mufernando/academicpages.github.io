@@ -31,11 +31,15 @@ __University of São Paulo__ BSc in Biological Sciences
 <!-- ### In review -->
 
 ### In preparation
+
 **Rodrigues MF**, Cogni R. Geographic variation in immunity genes and phenotypes in <i>Drosophila melanogaster</i>. 
 
 ### In print
+
 **Rodrigues, MF**, and Cogni, R. (2021) Genomic Responses to Climate Change: Making the Most of the Drosophila Model. Frontiers in Genetics, 1212. [https://doi.org/10.3389/fgene.2021.676218](https://doi.org/10.3389/fgene.2021.676218)
+
 **Rodrigues, MF**, Vibranovski, MD and Cogni, R. (2021) Clinal and seasonal changes are correlated in Drosophila melanogaster natural populations. Evolution. [https://doi.org/10.1111/evo.14300](https://doi.org/10.1111/evo.14300)
+
 Stankowski S, Chase MA, Fuiten AM, **Rodrigues MF**, Ralph PL, Streisfeld MA. (2019) Widespread selection and gene flow shape the genomic landscape during a radiation of monkeyflowers. PLoS Biol 17(7): e3000391. [https://doi.org/10.1371/journal.pbio.3000391](https://doi.org/10.1371/journal.pbio.3000391)
 
 A list is also available [online](https://scholar.google.com/citations?user=GyBZOK0AAAAJ)
