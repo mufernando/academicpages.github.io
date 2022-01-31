@@ -53,9 +53,7 @@ A list is also available [online](https://scholar.google.com/citations?user=GyBZ
 ## Awards and scholarships
 
 `2019-2021`
-__Hill Fund Award, CAS-UO__
-
-based on academic merit.
+__Hill Fund Award, CAS-UO__. Based on academic merit.
 
 `2019-2021`
 __Genetics Training Grant, CAS-UO__
