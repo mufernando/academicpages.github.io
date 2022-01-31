@@ -36,15 +36,26 @@ __University of São Paulo__ BSc in Biological Sciences
 
 ### In print
 
-**Rodrigues, MF**, and Cogni, R. (2021) Genomic Responses to Climate Change: Making the Most of the Drosophila Model. Frontiers in Genetics, 1212. [https://doi.org/10.3389/fgene.2021.676218](https://doi.org/10.3389/fgene.2021.676218)
+Baumdicker F, Bisschop G, Goldstein D, Gower G, Ragsdale AP, Tsambos G, Zhu S, Eldon B, Ellerman CE, Galloway JG, Gladstein AL, et al. (2021) Efficient ancestry and mutation simulation with msprime 1.0. Genetics. [https://doi.org/10.1093/genetics/iyab229](https://doi.org/10.1093/genetics/iyab229)
 
-**Rodrigues, MF**, Vibranovski, MD and Cogni, R. (2021) Clinal and seasonal changes are correlated in Drosophila melanogaster natural populations. Evolution. [https://doi.org/10.1111/evo.14300](https://doi.org/10.1111/evo.14300)
+Estevez-Castro CF, **Rodrigues MF**, Babarit A, Ferreira FV, Marois E, Cogni R, Marques JT, Olmo RP. (2021) The origin and evolution of loqs2: a gene encoding an antiviral dsRNA binding protein in Aedes mosquitoes. bioRxiv. [https://doi.org/10.1101/2021.12.21.473503](https://doi.org/10.1101/2021.12.21.473503)
+
+**Rodrigues MF**, and Cogni R. (2021) Genomic Responses to Climate Change: Making the Most of the Drosophila Model. Frontiers in Genetics, 1212. [https://doi.org/10.3389/fgene.2021.676218](https://doi.org/10.3389/fgene.2021.676218)
+
+**Rodrigues MF**, and Cogni R. (2021) Genomic Responses to Climate Change: Making the Most of the Drosophila Model. Frontiers in Genetics, 1212. [https://doi.org/10.3389/fgene.2021.676218](https://doi.org/10.3389/fgene.2021.676218)
+
+**Rodrigues MF**, Vibranovski MD and Cogni R. (2021) Clinal and seasonal changes are correlated in Drosophila melanogaster natural populations. Evolution. [https://doi.org/10.1111/evo.14300](https://doi.org/10.1111/evo.14300)
 
 Stankowski S, Chase MA, Fuiten AM, **Rodrigues MF**, Ralph PL, Streisfeld MA. (2019) Widespread selection and gene flow shape the genomic landscape during a radiation of monkeyflowers. PLoS Biol 17(7): e3000391. [https://doi.org/10.1371/journal.pbio.3000391](https://doi.org/10.1371/journal.pbio.3000391)
 
 A list is also available [online](https://scholar.google.com/citations?user=GyBZOK0AAAAJ)
 
 ## Awards and scholarships
+
+`2019-2021`
+__Hill Fund Award, CAS-UO__
+
+based on academic merit.
 
 `2019-2021`
 __Genetics Training Grant, CAS-UO__
@@ -182,4 +193,4 @@ Undergraduate teaching assistant for a first year course on systematics, phyloge
 
 Available on request.
 
-Last updated: August 2021
+Last updated: January 2022
