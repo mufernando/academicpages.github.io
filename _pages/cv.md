@@ -105,6 +105,10 @@ __Diversity and phylogenetic positioning of freshwater lineages of <i>Rhinebotrh
 
 ## Conferences, meetings and workshops
 
+`2022`
+__PEQG__, California, USA
+Poster title: Why are landscapes of diversity correlated in the great apes? [Poster here.](https://github.com/mufernando/peqg2022)
+
 `2021`
 __SMBEv2021__, virtual, Society for Molecular Biology and Evolution.
 
@@ -113,7 +117,7 @@ Poster title: Natural selection and landscapes of diversity in the great apes.
 `2021`
 __Probabilistic Modeling in Genomics__, virtual, Cold Spring Harbor Laboratories.
 
-Poster title: Natural selection and landscapes of diversity in the great apes. 
+Poster title: Natural selection and landscapes of diversity in the great apes. [Poster here.](https://github.com/mufernando/probgen21)
 
 `2020`
 __The Allied Genetics Conference__, virtual, Genetics Society of America.
