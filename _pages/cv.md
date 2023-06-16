@@ -35,8 +35,6 @@ __University of São Paulo__ BSc in Biological Sciences
 
 ### In print
 
-Expanding the stdpopsim species catalog, and lessons learned for realistic genome simulations
-
 Lauterbur ME, Cavassim MIA, Gladstein AL, Gower G, Pope NS, et al. (2022) Expanding the stdpopsim species catalog, and lessons learned for realistic genome simulations. eLife. [https://doi.org/10.7554/eLife.84874.1](https://doi.org/10.7554/eLife.84874.1)
 
 Baumdicker F, Bisschop G, Goldstein D, Gower G, Ragsdale AP, Tsambos G, Zhu S, Eldon B, Ellerman CE, Galloway JG, Gladstein AL, et al. (2021) Efficient ancestry and mutation simulation with msprime 1.0. Genetics. [https://doi.org/10.1093/genetics/iyab229](https://doi.org/10.1093/genetics/iyab229)
