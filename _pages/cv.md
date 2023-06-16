@@ -51,8 +51,14 @@ A list is also available [online](https://scholar.google.com/citations?user=GyBZ
 
 ## Awards and scholarships
 
+`2022-2023`
+__Harvey E Lee Grad Scholarship, UO.__
+
+`2022-2023`
+__Marthe E. Smith Memorial Science Scholarship, CAS-UO.__ Based on academic merit.
+
 `2019-2021`
-__Hill Fund Award, CAS-UO__. Based on academic merit.
+__Hill Fund Award, CAS-UO.__ Based on academic merit.
 
 `2019-2021`
 __Genetics Training Grant, CAS-UO__
@@ -77,7 +83,7 @@ Project title: "Diversity and phylogenetic positioning of freshwater lineages of
 ### Population genetics inference using Machine Learning
 
 `2023-`
-__Harnessing the power of tree sequences with machine learning__
+__Harnessing the information from tree sequences for population genetics inference__
 
 ### Heterogeneous genomic landscapes
 
