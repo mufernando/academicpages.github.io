@@ -28,13 +28,16 @@ __University of São Paulo__ BSc in Biological Sciences
 
 ## Publications
 
-<!-- ### In review -->
 
-### In preparation
+### In review
 
-**Rodrigues MF**, Cogni R. Geographic variation in immunity genes and phenotypes in <i>Drosophila melanogaster</i>. 
+**Rodrigues MF**, Kern AD, Ralph PL. (2023) Shared evolutionary processes shape landscapes of genomic variation in the great apes. bioRxiv. [https://doi.org/10.1101/2023.02.07.527547](https://doi.org/10.1101/2023.02.07.527547)
 
 ### In print
+
+Expanding the stdpopsim species catalog, and lessons learned for realistic genome simulations
+
+Lauterbur ME, Cavassim MIA, Gladstein AL, Gower G, Pope NS, et al. (2022) Expanding the stdpopsim species catalog, and lessons learned for realistic genome simulations. eLife. [https://doi.org/10.7554/eLife.84874.1](https://doi.org/10.7554/eLife.84874.1)
 
 Baumdicker F, Bisschop G, Goldstein D, Gower G, Ragsdale AP, Tsambos G, Zhu S, Eldon B, Ellerman CE, Galloway JG, Gladstein AL, et al. (2021) Efficient ancestry and mutation simulation with msprime 1.0. Genetics. [https://doi.org/10.1093/genetics/iyab229](https://doi.org/10.1093/genetics/iyab229)
 
@@ -73,9 +76,14 @@ Project title: "Diversity and phylogenetic positioning of freshwater lineages of
 
 ## Research projects
 
+### Population genetics inference using Machine Learning
+
+`2023-`
+__Harnessing the power of tree sequences with machine learning__
+
 ### Heterogeneous genomic landscapes
 
-`2019-` 
+`2019-2023` 
 __Natural selection and heterogeneous genomic landscapes__
 
 ### Geographic variation in <i>Drosophila melanogaster</i>
